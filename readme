@@ -1,0 +1,6 @@
+7313998182432dcd826cb23388de190dbda0bc8f
+Do not allow Spectacle to manipulate windows in fullscreen mode.
+
+And another issue is "resize", see my steps:
+1 move a maximized window from my 27' imac 5k monitor(monitor 1) to 28' 4k monitor(monitor 2), it works, in the monitor 2, it is still maximized.
+2 move back from monitor 2 to monitor 1, it is not maximized.
